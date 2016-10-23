@@ -1,0 +1,20 @@
+﻿  GameController.cpp
+GameController.cpp(141): warning C4305: '=': truncation from 'double' to 'float'
+GameController.cpp(147): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(161): warning C4305: '=': truncation from 'double' to 'float'
+GameController.cpp(179): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(194): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(206): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(222): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(243): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(274): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(278): warning C4018: '<': signed/unsigned mismatch
+GameController.cpp(282): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+Source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 381 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Asteroids.vcxproj -> D:\Projekt\C++\Asteroids\Release\Asteroids.exe

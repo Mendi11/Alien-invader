@@ -1,0 +1,13 @@
+﻿  GameController.cpp
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(140): warning C4305: '=': truncation from 'double' to 'float'
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(146): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(160): warning C4305: '=': truncation from 'double' to 'float'
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(178): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(193): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(205): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(221): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(273): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(277): warning C4018: '<': signed/unsigned mismatch
+d:\projekt\c++\asteroids\asteroids\gamecontroller.cpp(281): warning C4018: '<': signed/unsigned mismatch
+  Asteroids.vcxproj -> D:\Projekt\C++\Asteroids\Debug\Asteroids.exe
